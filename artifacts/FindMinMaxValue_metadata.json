@@ -138,11 +138,11 @@
 	},
 	"sources": {
 		"contracts/MaxValue.sol": {
-			"keccak256": "0x6cde35ba15a42160728e6eedd1592849f5d16b22e9d12fe7fc3b7cf321475cb1",
+			"keccak256": "0x35761188b7b76bd1d0fd0d8c5a0fc1c5a66f4a491667cd6a0f076e3d8b3e5c83",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5fc031914cc5e6340c2cb72f57801cfc670fd0197400980ba2d236bddd78a538",
-				"dweb:/ipfs/Qmao3YFz7b9L9hnMxnTJGhY6bEJsHxkoNSccLJoHyy7uwi"
+				"bzz-raw://476531e9897bbc134233bee8ff086ce5c5e1f69545edb9249f811fa64c9a1045",
+				"dweb:/ipfs/QmYdSy44igtHaiirDU3oJxcD62p5AtGMGRBHpA7U9tmQds"
 			]
 		}
 	},

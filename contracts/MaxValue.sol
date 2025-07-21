@@ -24,7 +24,7 @@ pragma solidity  ^0.8.26;
     uint256 public minValue_uint256 = type(uint256).min;
 
     uint M = 127;//local variable
-    uint b = 2;
+    uint b = 3;
     uint result = M+b;
 
  }
